@@ -1,0 +1,51 @@
+/*Header*/
+
+#header-nav {
+	background-color: #B5B7BB;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand a {
+	font-size: 32px;
+	color: black;
+	padding: 10px;
+	margin: 10px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+.navbar-header button.navbar-toggle, .navbar-toggle .icon-bar {
+	border: 1px solid white;
+}
+#button-top-right {
+	margin: 10px;
+}
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list h4{
+	color: black;
+	text-align: center;
+}
+
+/*Main Content*/
+
+#page-heading {
+	font-weight: bold;
+	margin: 20px;
+	margin-bottom: 40px;
+}
+
+.card h3 {
+	font-weight: bold;
+}
+
+div.card {
+	background-color: #B5B7BB;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+h3.card-heading {
+	margin-top: -10px;
+}
